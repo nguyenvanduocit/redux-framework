@@ -6,9 +6,8 @@
  * for WordPress themes and plugins. Developed with WordPress coding
  * standards and PHP best practices in mind.
  *
- * Plugin Name:     Redux Framework
- * Plugin URI:      http://wordpress.org/plugins/redux-framework
- * Github URI:      https://github.com/ReduxFramework/redux-framework
+ * Plugin Name:     Redux Framework 2
+ * Github URI:      https://github.com/nguyenvanduocit/redux-framework
  * Description:     Redux is a simple, truly extensible options framework for WordPress themes and plugins.
  * Author:          Team Redux
  * Author URI:      http://reduxframework.com
